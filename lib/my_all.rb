@@ -8,5 +8,5 @@ def my_all?(collection)
     i = i+1
     binding.pry
   end
-
+    block_return_values
 end
