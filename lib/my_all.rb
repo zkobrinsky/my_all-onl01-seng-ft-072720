@@ -13,5 +13,5 @@ def my_all?(collection)
     true
 end
 
-# my_all?([1, 1, 2, 3, 4, 5]) {|i| i<3}
+my_all?([1, 1, 2, 3, 4, 5]) {|i| i<3 puts "#{i}"}
 # binding.pry
