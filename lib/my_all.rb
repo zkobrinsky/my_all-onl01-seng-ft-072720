@@ -10,3 +10,5 @@ def my_all?(collection)
   end
     block_return_values
 end
+
+my_all?([1, 1, 2, 3, 4, 5])
