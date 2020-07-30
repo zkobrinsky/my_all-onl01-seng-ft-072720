@@ -13,6 +13,7 @@ def my_all?(collection)
   else
     puts "true"
     true
+  end
 end
 
 my_all?([1, 1, 2, 3, 4, 5]) {|i| i<3}
