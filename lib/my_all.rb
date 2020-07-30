@@ -7,7 +7,7 @@ def my_all?(collection)
     binding.pry
     block_return_values << yield(collection[i])
     i = i+1
-    
+
   end
     block_return_values
 end
