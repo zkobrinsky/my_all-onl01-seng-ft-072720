@@ -11,5 +11,5 @@ def my_all?(collection)
     block_return_values
 end
 
-my_all?([1, 1, 2, 3, 4, 5]) {|i| i<3}
-binding.pry
+# my_all?([1, 1, 2, 3, 4, 5]) {|i| i<3}
+# binding.pry
